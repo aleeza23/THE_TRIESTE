@@ -1,4 +1,4 @@
-# THE TRIESTE Website
+# ThecTrieste Website
 
 
 ![Home Page](public/demo01.png)
