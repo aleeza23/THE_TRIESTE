@@ -1,6 +1,5 @@
-# Angus Treats Website
+# THE TRIESTE Website
 
-This website showcases a modern frontend design built with Tailwind CSS in Next.js having visually appealing layout.
 
 ![Home Page](public/demo01.png)
 
@@ -13,7 +12,7 @@ To explore the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aleeza23/ANGUS_TREATS.git
+   git clone https://github.com/aleeza23/THE_TRIESTE.git
 
 First, run the development server:
 
