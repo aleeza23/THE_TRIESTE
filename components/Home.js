@@ -86,7 +86,7 @@ const Home = () => {
             <p className="text-lg md:text-xl mb-6 w-full md:w-[50%] mx-auto">
               Have questions or need to make a reservation? 
               Our team is here to assist you with all your needs. 
-              Reach out to us and we'll be happy to help.
+              Reach out to us and we will be happy to help.
             </p>
             <Link href="/contact">
               <button className="  py-2 px-4 border border-[#ffdc7c] text-[#ffdc7c] font-semibold  hover:text-white transition-colors">
