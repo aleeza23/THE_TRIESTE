@@ -5,7 +5,7 @@ import aboutRight from '@/public/about-us-right.jpg';
 import headingPattern from '@/public/rev-img.png';
 import dynamic from 'next/dynamic'
 import Image from 'next/image'
-import aboutBanner from '@/public/banner-About-us.webp'
+import aboutBanner from '@/public/about02.jpg'
 import AboutTestimonial from '@/components/AboutTestimonial';
 
 
@@ -36,7 +36,7 @@ const AboutPage = () => {
                     <div className="container mx-auto px-4">
                         <div className="text-center mb-5 md:mb-0 relative">
                             <div className="inline-block relative">
-                                <div                                  
+                                <div
                                     className="absolute left-[-5rem] top-[45%] transform -translate-y-1/2 w-12 h-12"
                                 >
                                     <Image
@@ -49,7 +49,7 @@ const AboutPage = () => {
                                 <h2 className="text-3xl font-bold text-[#ffdc7c] font-pirata-one tracking-widest relative z-10">
                                     About Us
                                 </h2>
-                                <div                                    
+                                <div
                                     className="absolute right-[-5rem] top-[45%] transform -translate-y-1/2 w-12 h-12"
                                 >
                                     <Image
@@ -59,7 +59,7 @@ const AboutPage = () => {
                                         objectFit="contain"
                                     />
                                 </div>
-                            </div>                         
+                            </div>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             <div className="p-4 shadow-md rounded-md">
@@ -72,13 +72,13 @@ const AboutPage = () => {
                                 />
                             </div>
                             <div className="p-12 text-white font-thin text-center">
-                               <p>For the very first time in World. Experience the luxury of dining out like never before. Live cooking and extraordinary taste to perfection.</p>
-                               <p className='my-6'>For the very first time in World. Experience the luxury of dining out like never before. Live cooking and extraordinary taste to perfection.</p>
-                               <p>For the very first time in World. Experience the luxury of dining out like never before. Live cooking and extraordinary taste to perfection.</p>
-
+                                <p>For the very first time in the world, experience the luxury of dining out like never before. Live cooking and extraordinary taste to perfection.</p>
+                                <p className='my-6'>Indulge in an unparalleled dining adventure where every dish is a masterpiece, crafted with precision and passion.</p>
+                                <p>Join us for a unique culinary journey that promises to delight your senses and elevate your dining experience to new heights.</p>
                             </div>
 
-                            
+
+
                             <div className="p-4 shadow-md rounded-md">
                                 <Image
                                     src={aboutRight}

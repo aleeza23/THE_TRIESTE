@@ -6,7 +6,7 @@ const Video = () => {
     <section className="w-full md:h-[400px] overflow-hidden">
       <video
         className="w-full h-auto"
-        src="/carnivore-landscape-new_1.mp4" 
+        src="/4781575-hd_1920_1080_25fps.mp4" 
         
         autoPlay
         muted

@@ -9,10 +9,10 @@ import headingPattern from '@/public/rev-img.png';
 
 const reviews = [
     {
-        text: "I just went to Firensteak, and man, it was amazing! Had their chili beef dry, herbs kitchen steak, French onion chicken and soup with garlic bread – all delicious! The taste was so good, and the place had a great vibe. Definitely recommend trying it out!",
+        text: "I just went to The Trieste, and man, it was amazing! Had their chili beef dry, herbs kitchen steak, French onion chicken and soup with garlic bread – all delicious! The taste was so good, and the place had a great vibe. Definitely recommend trying it out!",
     },
     {
-        text: "Absolutely loved the dining experience at Firensteak! The ambiance is perfect, and the steak was cooked to perfection. Will definitely be back for more!",
+        text: "Absolutely loved the dining experience at The Trieste! The ambiance is perfect, and the steak was cooked to perfection. Will definitely be back for more!",
     },
 ];
 

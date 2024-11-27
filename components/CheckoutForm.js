@@ -67,7 +67,7 @@ ${itemsList}
                     />
                 </label>
                 <Link
-                    href={`https://wa.me/0316 5201865?text=${generateWhatsAppMessage()}`}
+                    href={`https://wa.me/03165201865?text=${generateWhatsAppMessage()}`}
                     className={`px-6 py-2 text-center rounded-full transition ${isFormValid() ? 'bg-gradient-to-r from-[#ffdc7c] to-[#ffdc7c] text-black hover:shadow-lg' : 'bg-gray-500 text-gray-300 cursor-not-allowed'}`}
                     style={{ pointerEvents: isFormValid() ? 'auto' : 'none' }}
                 >
